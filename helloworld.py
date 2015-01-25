@@ -3,3 +3,5 @@ if var <10:
     print 'small'
 else:
     print 'big'
+
+print 'Hello World'
